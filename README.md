@@ -23,7 +23,7 @@ Create React App was used to generate the boilerplate for react app.
 
 React router is used to navigate to different sections of app.
 
-### `Firebase`
+### `FIREBASE FOR BACKEND`
 Firebase cloud firestore was used to store all reviews and softwares data.
 
 Firebase authentication was used to authenticate users.
