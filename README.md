@@ -39,5 +39,5 @@ The following resources were helpful in completing this project:
 
 ### `NOTE:`
 
-This repository contains the development code of the app. To view the production build see the repository: 
-https://github.com/Rohail77/Softwares-Rating-App-Production
+This repository contains the production build of the app. To view the development code see the repository: 
+https://github.com/rohailtaha/Softwares-Rating-App
